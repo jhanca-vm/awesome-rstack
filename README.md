@@ -420,6 +420,7 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 - [rstest-canvas-mock](https://github.com/rstackjs/rstest-canvas-mock): Mock the Canvas API in Rstest tests.
 - [rstest-sonar-reporter](https://github.com/onigoetz/rstest-sonar-reporter): A Rstest reporter that outputs test results in SonarQube's Generic Test Execution XML format.
 - [path-serializer](https://github.com/rstackjs/path-serializer): A snapshot serializer that normalizes system-specific paths for stable snapshots.
+- [effect-rstest](https://github.com/Nsttt/effect-rstest): Effect test helpers for Rstest, with shared layers, test services, and property testing.
 
 ## Deployment
 
